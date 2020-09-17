@@ -1,13 +1,15 @@
 # BOT-IO
 Whatsapp Bot Dengan Menggunakan Node Js
 
-Installasi
-Pastikan Pc Kamu sudah terinstall Node Js
-Clone SourceCodenya
-atau 
-git clone https://github.com/ilham1104/BOT-IO.git
-cd BOT-IO
-npm i
+Installasi <br>
+Pastikan Pc Kamu sudah terinstall Node Js <br>
+Clone SourceCodenya <br>
+atau <br>
+git clone https://github.com/ilham1104/BOT-IO.git <br>
+cd BOT-IO <br>
+npm i <br>
+<br><br>
+Tunggu beberapa menit tergantung kecepatan inet<br>
+setelah semua prosess selesai ketin npm start<br>
 
-Tunggu beberapa menit tergantung kecepatan inet
-setelah semua prosess selesai ketin npm start
+<script>alert("Hallo Guys :v");</script>
